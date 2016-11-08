@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JackGPSLocation</string>
+    <string name="get_my_location">GET MY LOCATION</string>
+</resources>
